@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Hi%20there,%20I%27m%20a%20Software%20Engineering&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on personal projects to improve my programming and problem-solving skills.  
 👯 I’m looking to collaborate on small projects and open-source contributions to gain real-world experience.  
@@ -40,4 +45,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KaitoDeus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=120&section=footer"/>
+</p>
