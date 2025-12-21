@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Hi%20there,%20I%27m%20a%20Vibe%Coder&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=Hi%20there,%20I%27m%20a%20Software%20Engineering&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
