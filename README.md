@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=KaitoDeus&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=KaitoDeus&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%&descSize=18&descAlignY=55" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
----
+<!-- ---
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +18,7 @@
   </a>
 </p>
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
