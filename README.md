@@ -25,9 +25,6 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KaitoDeus&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaitoDeus&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-</p>
 
 ## 🎧 Now Playing
 
