@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=KaitoDeus&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=180&section=header&text=KaitoDeus&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descSize=14&descAlignY=58" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8F94FB&center=true&vCenter=true&random=false&width=500&lines=Always+Learning+New+Things+%F0%9F%8C%B1;Building+Awesome+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=8F94FB&center=true&vCenter=true&width=420&lines=Always+Learning+New+Things+%F0%9F%8C%B1;Building+Awesome+Projects+%F0%9F%9A%80" />
   </a>
-</p> 
+</p>
 
 <!-- ---
 
