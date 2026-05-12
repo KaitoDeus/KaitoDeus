@@ -16,7 +16,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KaitoDeus&theme=dark&radius=10" alt="KaitoDeus's Activity Graph" />
 </p>
 
-## 🛠️ Languages & Tools
+<!-- ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -67,7 +67,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/KaitoDeus">
