@@ -69,7 +69,7 @@
 
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/KaitoDeus">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaitoDeus&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
@@ -83,4 +83,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
-</div> -->
+</div> --> -->
