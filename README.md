@@ -1,4 +1,4 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=VO%20ANH%20KHAI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=VO%20ANH%20KHAI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -69,7 +69,7 @@
 
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/KaitoDeus">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaitoDeus&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
@@ -83,4 +83,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
-</div> --> 
+</div>
